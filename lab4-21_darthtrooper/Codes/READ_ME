@@ -1,0 +1,23 @@
+4.1
+Sampling Freqency: 8000Hz
+Bits: 16
+Number of levels = 2^(16)
+
+As sampling frequency decreases,we notice that in the timedomain the sample is stretched
+
+As sampling frequency increases, there is a squeezing in the time-domain of the signal which seems like the sample is playing fast sounding making it sound like Talking Tom xD.
+
+Fourier transform property of frequency scaling is used here which results in time dilation or stretching.
+
+
+4.2
+As b increases,the xq[n], the level increases due to which its resemblance to original signal increases.
+
+Maximum Absolute Error will decreases in the graph as levels increase as expected as it is equal to 1/(2^b).
+
+SQNR will increase for each bit increase as seen in the theoritical value which matches the practical value almost perfectly.
+
+4.3
+The sample becomes more clear as the number of bits increases as it replicates the sample better reducing an distortion/error in the signal.
+Frequency content of quantised signals decreases as level L is changed.
+ 

@@ -1,0 +1,3 @@
+Theory Answers
+8.2c Using FFT methods, we can obtains a computational complexity as O(Nlog(N)).
+8.2d using normal colvolution in the time-domain the computational complexity is O(N^2).

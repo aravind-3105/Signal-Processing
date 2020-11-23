@@ -1,0 +1,10 @@
+Theory Answers: 
+
+7.2 
+c)
+d) The frequency response moves from behaving like a high pass to a low pass as p increases
+   The impulse response moves from 
+e) Behaves like a all-pass filter
+
+7.3
+d) The filter excludes a particular set of frequencies

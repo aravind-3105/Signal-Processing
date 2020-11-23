@@ -1,0 +1,6 @@
+10.1
+b) None of the IIR filters exhibit linear phase as see in the graph.
+c) Elliptical seems to be more preferable relatively due to its equiripple in both the passband and stopband
+   and fast/sharp transition band.
+f) We see that the low pass filtering happens properly for all filters. The amplitude reduction and clear output also 
+   verifies this.
