@@ -1,0 +1,20 @@
+
+Theory Answers: 
+3.2 The quality of the signal is not uniform throughout. We that the interpolation is better towards the middle region but is not 
+    perfect towards the end as there arent enough right and left side samples for the right and left end of the signal for interpolation.
+    
+    Error obtained for:
+    1) Linear: 2.994
+    2) Zero Hold: 0.3827
+    3) Sinc interpolation: 0.3313
+ 
+ 3.3 As the Ts increases it is noticed that there are more samples that form the reconstructed signal. This is seen when compared 
+     to the original signal.
+     
+ 3.4 Nyquist frequency is 5Hz or 10*Pi rad/sec
+     For 0.1secs, It has a sampling frequency of 10Hz which is more than nyquist rate so it is full reconstructed
+     For 0.2secs, It has a sampling frequency of 10Hz which is equal to the nyquist rate so it is not entirely reconstruced through the rough shape can be seen
+     For 0.3secs It is belownyquist rate due to which we see a different figure
+     For 0.4secons is it even more irregular as there is less samples to sample on within that range which affects the accuracy
+     
+     

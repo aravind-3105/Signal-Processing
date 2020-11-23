@@ -1,0 +1,31 @@
+Run files by typing the file names for the respective question subparts
+Theory answer in common pdf named: 
+
+Question 2.1
+  Files Associated: 
+    1) continuousFT.m
+    2) Script2_1b.m
+    3) Script2_1c_T_1.m
+    4) Script2_1c_T_4.m
+    5) Script2_1d_cos_t.m
+    6) Script2_1d_sin_t.m
+    7) Script2_1d_ejt.m
+    8) Script2_1e_pulse.m
+  Plots Associated:
+    1) 2_1b.fig
+    2) 2_1c_T_1.fig
+    2) 2_1c_T_.fig
+    3) 2_1d-cos.fig
+    4) 2_1d-sin.fig
+    5) 2_1d-ejt.fig
+
+Question 2.2
+  Files Associated:
+    1) partialfouriersum.m
+    2) Script2_2b.m
+    3) Script2_2g.m
+    4) continuousFT.m
+
+  Plots Associated:
+    1) 2_2b.fig
+    2) 2_2g.fig
